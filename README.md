@@ -1,3 +1,3 @@
 # program-testowy
-sahjgdjhasg
-safdjhdsahjfsakjdhjsadjhla
+# sahjgdjhasg
+# safdjhdsahjfsakjdhjsadjhla
