@@ -1,1 +1,1 @@
-# program-testowy
+# prepozytorium-testowy
